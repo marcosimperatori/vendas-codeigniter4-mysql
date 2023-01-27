@@ -4,6 +4,8 @@ Este pequena sistema demonstra como configurar e utilizar o framwork CodeIgniter
 
 Embora seja um sistema para auxiliar na compreensão da configuração e utilização do framework, ainda assim, com algumas adaptações poderia ser utilizada até mesmo em pequenos controles pessoais.
 
+Sugestão de melhoria:
+
 Tecnologias utilizadas:
 
 https://codeigniter.com/user_guide/intro/index.html
