@@ -6,8 +6,6 @@ Embora seja um sistema para auxiliar na compreensão da configuração e utiliza
 
 Sugestão de melhoria:
 
-Tecnologias utilizadas:
-
 https://codeigniter.com/user_guide/intro/index.html
 
 https://mariadb.org/
