@@ -21,7 +21,7 @@
         </div>
     <?php endif; ?>
 
-    <table class="table table-sm table-striped">
+    <table class="table table-sm table-striped mt-2">
         <thead>
             <tr class="bg-dark text-white">
                 <th>Descrição</th>
